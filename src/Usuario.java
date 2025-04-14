@@ -24,6 +24,7 @@ public class Usuario {
         System.out.println("Novo comando!");
         smartTv.desligar();
         System.out.println("Novo status - A TV está ligada? " + smartTv.ligada);
+        System.out.println("FIM");
     
     }
 }
